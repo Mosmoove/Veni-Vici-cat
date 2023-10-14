@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![walkthrough3](https://getkap.co/walkthrough3.gif)'
+<img src= '![walkthrough3](https://github.com/Mosmoove/Veni-Vici-cat/assets/115383064/a3d44698-f1bf-48d3-8275-5a7f590ab26c)'
  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -42,7 +42,7 @@ GIF created with Kap
 
 ## Notes
 
-I struggled with how to handle and fetch data from and API.
+I struggled with how to handle and fetch data from an API.
 
 ## License
 
